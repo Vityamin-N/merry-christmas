@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/images/background.jpg') no-repeat;
+    background: url(./images/background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -59,7 +59,7 @@ header{
     text-align: center;
     -webkit-text-stroke: 1px #fff;
     color: transparent;
-    background: url('/images/back-text.png');
+    background: url(./images/back-text.png);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: backText 20s linear infinite alternate;
